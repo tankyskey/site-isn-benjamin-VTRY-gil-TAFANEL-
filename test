@@ -1,0 +1,21 @@
+*
+{
+	font-family: miriam;
+	background-color: #e56c26;
+	/*margin: auto;
+	text-align: center;*/
+}
+
+.gateau
+{
+	border: 5px solid;
+	margin: auto;
+	position: relative;
+	left: 1000px;
+	bottom: 500px;
+}
+
+.ingredient
+{
+
+}
